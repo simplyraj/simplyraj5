@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Links
+title: Links for November 7th 2020
 categories: Links
 ---
 
