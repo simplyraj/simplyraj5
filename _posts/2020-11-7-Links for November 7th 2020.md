@@ -10,6 +10,6 @@ categories: Links
 
 [Manuka honey](https://www.afar.com/magazine/the-wild-story-of-manuka-the-worlds-most-coveted-honey)
 
-[How billionaire Jack Ma fell to earth and took Ant's mega IPO with him | Reuters](https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX)
+[Jack Ma and Ant Financial mega IPO ](https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX)
 
 [AI Expert Roadmap](https://i.am.ai/roadmap) Roadmap to becoming an Artificial Intelligence Expert in 2020
